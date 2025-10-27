@@ -30,11 +30,11 @@ We believe in teamwork and diversity.
 Here’s what powers ADC:
 
 - 💻 **Tech Team** — Code, innovate, and build impactful projects.  
-- 🎨 **Design Team** — Craft visuals, UI/UX, and branding.  
-- 📢 **Marketing Team** — Build visibility and manage outreach.  
+- 📢 **Marketing & Media Team** — Build visibility and manage outreach.  
 - 💡 **Entrepreneurs Team** — Turn ideas into real ventures.  
 - 🎮 **Gaming Team** — Explore creativity, competition, and fun.  
-- 👗 **Fashion & Media Team** — Add art, style, and storytelling to innovation.
+- 👗 **Fashion Team** — Add art, style, and storytelling to innovation.
+- 💡 **Electronics Team** — Innovate through circuits and hardware.
 
 ---
 
@@ -52,7 +52,7 @@ Here’s what powers ADC:
 
 -  💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Algon%20Developer%20Community-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/algon-dc-gcek/)
 - 📧 **Email:** adcgcek25@gmail.com *(General inquiries)*  
-- 🏫 **Institution:** Government College of Engineering, Kannur  
+- 🏫 **Institution:** Government College of Engineering Kannur  
 
 ---
 
@@ -63,6 +63,6 @@ If you’re passionate about collaboration, growth, and innovation — **you bel
 
 ---
 
-> “Build. Collaborate. Innovate. — Together we are ADC 🚀”
+> “Build. Collaborate. Innovate. — Together we are ADC ✨”
 
 ---

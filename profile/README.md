@@ -1,6 +1,9 @@
 # 🌐 Algon Developer Community — GCEK
 
-**_Multidisciplinary platform integrating business, media, finance, fashion, development, marketing, and coding._**
+
+<p align="center">
+  <img src="Logo animated.gif" alt="CLUB Logo" width="700">
+</p>
 
 ---
 

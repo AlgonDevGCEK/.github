@@ -53,7 +53,7 @@ Here’s what powers ADC:
 
 ### 🌍 Connect With Us
 
--  💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Algon%20Developer%20Community-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/algon-dc-gcek/)
+-  💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-ALGON%20DC%20GCEK-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/algon-dc-gcek/)
 - 📧 **Email:** adcgcek25@gmail.com *(General inquiries)*  
 - 🏫 **Institution:** Government College of Engineering Kannur  
 

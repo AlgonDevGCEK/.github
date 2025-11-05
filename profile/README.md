@@ -64,8 +64,8 @@ Here’s what powers ADC:
 We’re always looking for creative minds, curious learners, and driven developers.  
 If you’re passionate about collaboration, growth, and innovation — **you belong here.**
 
----
+<br></br>
 
-> “Build. Collaborate. Innovate. — Together we are ADC ✨”
+<H2 align = "center" > <b>“Build. Collaborate. Innovate. — Together we are ADC ✨”</b></H2>
 
----
+

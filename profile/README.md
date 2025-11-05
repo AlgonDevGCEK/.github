@@ -1,4 +1,4 @@
-# 🌐 Algon Developer Community — GCEK
+<h1 align = "center"> <b> 🌐 ALGON DEVELOPER COMMUNITY — GCEK</b></h1>
 
 
 <p align="center">
